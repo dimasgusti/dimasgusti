@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimasgusti&label=Profile%20views&color=0e75b6&style=flat-square" alt="dimasgusti" /> </p>
 
-- 🔭 I’m currently working on **Portoku**
+- 🔭 I’m currently working on **CVKU**
 
-- 🌱 I’m currently learning **whatever adds value to my personal growth.**
+- 🌱 I’m currently learning **Next.JS.**
 
 - 👨‍💻 All of my projects are available at [https://www.dimasgusti.xyz](https://www.dimasgusti.xyz)
 
