@@ -3,13 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimasgusti&label=Profile%20views&color=0e75b6&style=flat-square" alt="dimasgusti" /> </p>
 
-- 🔭 I’m currently working on **CVKU**
-
 - 🌱 I’m currently learning **Next.JS.**
 
-- 👨‍💻 All of my projects are available at [https://www.dimasgusti.xyz](https://www.dimasgusti.xyz)
-
-- 📫 How to reach me **dimasgustiwork@gmail.com**
+- 📫 How to reach me **dimas_gusti@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
